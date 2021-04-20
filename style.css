@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background: linear-gradient(#ad06c9 0%,#0bc906 100%);
+    background-repeat: no-repeat;
+}
+.img{
+    border-radius: 50%;
+    width: 100px;
+    align-content: center;
+}
+h1{
+    text-shadow: 1px 1  px #000000;
+    font-size: 20px;
+}
+p{
+    font-size: 18px; 
+    color:#a2e7f9;
+}
+#bio{
+    padding: 50px;
+    font-size: 42;
+    text-align: center;
+}
+#welcome{
+  font-family: 'Dancing Script', cursive; 
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor:pointer;
+    color:black;
+    z-index: 10;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin:8px auto;
+}
+.links{
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size: 20px;
+}
